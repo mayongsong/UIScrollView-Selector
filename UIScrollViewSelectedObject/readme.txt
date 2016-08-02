@@ -1,2 +1,3 @@
 Createing a new branch is quick and simple.
 分支管理策略
+Git is a free software……
